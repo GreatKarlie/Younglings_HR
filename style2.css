@@ -1,0 +1,30 @@
+body{
+    background: url('/Younglings_Admin_App-main/imgs/bo-kaap.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100vh;
+}
+
+#logo{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    opacity: 80%;
+}
+
+.container{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+    border-radius: 10px;
+    background-color: ;
+}
+
+.admin{
+    color: darkgreen;
+}
+form{
+    margin: 1.5em;
+}
